@@ -24,27 +24,18 @@
             width: 75px;
             padding-top: 22px;
             padding-bottom: 12px;
-<<<<<<< HEAD
-=======
             cursor: pointer;
->>>>>>> c9a3a38 (main-youtube-clone)
         }
 
         .side-bar-icon {
             width: 25px;
-<<<<<<< HEAD
-=======
             font-family: "Roboto", sans-serif;
             cursor: pointer;
             
->>>>>>> c9a3a38 (main-youtube-clone)
         }
 
         .side-bar-icon:hover {
             background-color: lightgray;
             transition: 0.39ms;
-<<<<<<< HEAD
-=======
             cursor: pointer;
->>>>>>> c9a3a38 (main-youtube-clone)
         }
